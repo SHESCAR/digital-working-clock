@@ -1,11 +1,11 @@
 body{
      margin: 0%;
      padding: 0%;
-     background-color:black;
+     background-color:rgb(57, 58, 58);
 }
 .container{
      font-family: Dosis;
-     color: white;
+     color: rgb(0, 0, 0);
      font-weight: bold;
      position: absolute;
      top:50%;
